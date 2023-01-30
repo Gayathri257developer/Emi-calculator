@@ -1,0 +1,12 @@
+.textfield{
+    padding: 8px 14px;
+    text-transform: capitalize;
+    font-size: 14px;
+}
+button{
+ padding: 8px 14px;
+ color: rgb(0, 106, 255);
+ font-size: 14px;
+ font-weight: 500;
+ text-transform: capitalize;
+}
